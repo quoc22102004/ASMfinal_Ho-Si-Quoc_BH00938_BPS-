@@ -1,0 +1,11 @@
+CategoryID,CategoryName,Description
+1,Smartphones,High-end and mid-range smartphones
+2,Laptops,Portable computers for personal and professional use
+3,Tablets,Touchscreen devices with various sizes and features
+4,Accessories,Peripheral devices and accessories for electronics
+5,Headphones,Audio devices for personal listening
+6,Smartwatches,Wearable technology with fitness and communication features
+7,Home Appliances,Electronics for home use
+8,Televisions,Large display screens for home entertainment
+9,Cameras,Digital and analog cameras for photography
+10,Gaming Consoles,Devices for playing video games
